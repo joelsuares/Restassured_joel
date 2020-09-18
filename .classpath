@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/docs/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/rest assured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/REST Assured/json path/json-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/testng-7.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
